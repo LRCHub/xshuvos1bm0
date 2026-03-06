@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "LITTLE BUSTERS",
+  "base_artist": "the pillows",
+  "createdAt": "2026-03-06T11:24:10.285606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Busters!",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/01_Little_Busters!_Rita.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Little Busters! (Little Jumper Ver.)",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/02_Little_Busters!_(Little_Jumper_Ver.)_Rita.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Little Busters! -Little Jumper Ver.-",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/03_Little_Busters!_-Little_Jumper_Ver.-_Rita.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little Busters! -Short Ver.-",
+      "artist": "Rita",
+      "has_synced": false,
+      "path": "select/04_Little_Busters!_-Short_Ver.-_Rita.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LITTLE BUSTERS",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/05_LITTLE_BUSTERS_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LITTLE BUSTERS",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/06_LITTLE_BUSTERS_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little Busters",
+      "artist": "The Pillows",
+      "has_synced": true,
+      "path": "select/07_Little_Busters_The_Pillows.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little Busters! -Ecstasy Ver.-",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/08_Little_Busters!_-Ecstasy_Ver.-_Rita.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Busters! (TV Size)",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/09_Little_Busters!_(TV_Size)_Rita.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LITTLE BUSTERS",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/10_LITTLE_BUSTERS_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little Busters",
+      "artist": "FLCL - The Pillows",
+      "has_synced": true,
+      "path": "select/11_Little_Busters_FLCL_-_The_Pillows.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LITTLE BUSTERS",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/pl_01_LITTLE_BUSTERS_the_pillows.txt"
+    }
+  ]
+}
